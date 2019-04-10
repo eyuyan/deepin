@@ -2,6 +2,15 @@
 deepin记录
 
 
+sudo apt-get install golang
+要什么软件就
+sudo apt-cache search 软件名
+查一下有没有，有的话就是sudo apt-get install 软件名
+https://lanseyujie.com/post/deepin-optimization-techniques.html
+
+
+
+。。。。。。。。
 
 
 Deepin下安装Maven
